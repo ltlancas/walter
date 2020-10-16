@@ -1,1 +1,2 @@
 # popdet-calc
+This is a code set up to calculate the number density of stars detected in a given observation with the Nancy Grace Roman Space Telescope (RST). The details of the formalism of the code in this repository are described in the accompanying paper available at (...). A walkthrough of how to use th code is available in the iPython notebook "walkthrough.ipynb" with a place to put in your own code. 
