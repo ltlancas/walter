@@ -1,4 +1,4 @@
-# popdet-calc
+# walter
 This is a code to calculate the number density of stars detected in a given observation aiming to resolve a stellar population. As the upcoming Nancy Grace Roman Space Telscope (Roman) will have excellent capabilities for doing these sorts of observations, all of the code laid out here is applied to the specific case of Roman. The details of the mathematical formalism used in this repository are described in the paper accompanying the code, which is available at (...).
 
 The main points of interest to the user are as follows. A walkthrough of how to use th code is available in the iPython notebook `walkthrough.ipynb` with a place to put in your own code at the end of the file. An application of the code to the observation of an example galaxy halo is given in `observation.ipynb`. Finally, code which allows the user to calculate the required exposure time to a given feature of a stellar population (such as its Red Giant Branch) is given in `time_to_feature.ipynb`.
